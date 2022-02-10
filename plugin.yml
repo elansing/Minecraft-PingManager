@@ -1,0 +1,10 @@
+main: de.etiiomc.pingmanager.main.main
+name: PingManager
+version: 1.3.0
+author: etiiomc
+
+commands:
+  ping: 
+    description: Zeige den Ping eines Spielers an.
+  pingmanager: 
+    description: Zeigt die Version an.
